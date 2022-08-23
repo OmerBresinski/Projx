@@ -14,6 +14,6 @@
 ## Client
 
 1. cd into the `client` directory
-2. Rum the following commands to start the client:
+2. Run the following commands to start the client:
 - `npm install`
 - `npm start`
